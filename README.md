@@ -30,3 +30,6 @@
 * You cat set keybinds by simply type  *.keybind ＜ModuleName＞*  in ur chatline
 
 *Click GUI and HUD are not completed yet, pls wait for our update:)*
+
+### You don't have any kits?
+* **Press Alt+F4**
