@@ -25,7 +25,7 @@
 * It requires **Minecraftforge-1.12.2** (https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) 
 * Put  *Override-beta-v1.0.0.jar*  into your  *mods*  folder
 
-## Usuage
+## Usage
 
 * You cat set keybinds by simply type  *.keybind ＜ModuleName＞*  in ur chatline
 
