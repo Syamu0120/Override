@@ -1,4 +1,6 @@
 # Override
+![logo](https://user-images.githubusercontent.com/86970032/124563188-c9537b80-de7a-11eb-8759-1438cc01cae7.png)
+
 **The Best Minecraft Anarchy Client EVER!**
 
 ## Modules
