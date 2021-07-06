@@ -33,3 +33,9 @@
 
 ### You don't have any kits?
 * **Press Alt+F4**
+
+
+
+
+
+Disclaimer: *DISCLAIMER.rtf*
