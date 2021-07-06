@@ -1,5 +1,5 @@
 # Override
-### The Best Anarchy Client EVER!
+### The Best Minecraft Anarchy Client EVER!
 
 ## Modules
 - [x] AntiHunger - Reduces hunger
