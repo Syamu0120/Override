@@ -27,7 +27,7 @@
 
 ## Usage
 
-* You cat set keybinds by simply type  *.keybind ＜ModuleName＞*  in ur chatline
+* You can set keybinds by simply type  *.keybind ＜ModuleName＞ ＜Key＞*  in ur chatline
 
 *Click GUI and HUD are not completed yet, pls wait for our update:)*
 
